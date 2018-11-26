@@ -211,7 +211,7 @@ function randomInt(n) {
 }
 
 
-// Not secure or high quality, but always available.
+// Not secure or high quality, but always available
 function randomIntMathRandom(n) {
 	var x = Math.floor(Math.random() * n);
 	if (x < 0 || x >= n)
