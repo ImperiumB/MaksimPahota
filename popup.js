@@ -1,5 +1,6 @@
 var createPassword = function() {
-var L==15 
+var L==15
+L==10
 var passAt = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789'
   var passArray = Array.from({length: L})
 
